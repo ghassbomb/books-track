@@ -1,5 +1,5 @@
 title = 'Books Track'
-baseURL = 'https://ghassbomb.github.io/books-track/'
+baseURL = 'https://ghassbomb.github.io/books-track'
 languageCode = 'en-us'
 theme = 'track-theme'
 author = 'Ghassan Shahzad'
