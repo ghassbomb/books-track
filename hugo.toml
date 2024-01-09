@@ -1,0 +1,10 @@
+title = 'Books Track'
+baseURL = 'https://ghassbomb.github.io'
+languageCode = 'en-us'
+theme = 'track-theme'
+author = 'Ghassan Shahzad'
+description = 'Books Track is a repository of sorts, where I dump plans, notes, exercises, and everything else related to the books I read.'
+enableRobotsTXT = true
+
+[params]
+github = 'https://github.com/ghassbomb/books-track'
