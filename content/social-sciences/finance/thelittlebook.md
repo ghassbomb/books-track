@@ -4,9 +4,10 @@ date: 2024-01-08T11:47:10.000Z
 ---
 
 ## The Little Book of Common-Sense Investing
+*by John C. Bogle*
 
-### by John C. Bogle
-
+{{< toc >}}
+ 
 ### 1 -- Introduction
 
 **Investing is a common-sense game, and common-sense suggests _'simple is best'_.** For instance, evidence plainly proves that the economy _always_ grows in the long-run. Therefore, if you were to _simply_ own the (publicly-held) economy, your investments would multiply pretty easily, year-on-year, with no effort (you don't need to sell and buy often, like a day trader). To own (part) of the entire public economy, but you can purchase **traditional index funds** -- these funds hold all stocks in a basket and allow you to buy a share of the basket, thus allowing you to buy a part of every public stock/company.

@@ -5,7 +5,8 @@ date: 2024-01-08T16:47:10+05:00
 
 ## Economics in One Lesson
 
-### by Henry Hazlitt
+*by Henry Hazlitt*
+{{< toc >}}
 
 ### The Lesson
 
@@ -116,7 +117,7 @@ If any of these methods, or a combination of them is used, farmers will indeed g
 
 _Essentially the previous chapter expanded to more general purpose._
 
-## How the Price System Works
+### How the Price System Works
 
 When Robinson Crusoe found himself on a deserted island, he had a lot of needs (shelter, food, water, warmth). As a single person, he could _only_ focus on one of these at a time, however. And, once done with one problem, he must move onto the next most pressing. If a family were stranded, then they would certainly have more leeway. They could assign tasks--_the specialisation and division of labor_. For example, the father was done gathering enough firewood, he wouldn't gather _more_ than they needed. He'd help find food instead. If he continued gathering firewood, it would be at the _expense of food_.
 

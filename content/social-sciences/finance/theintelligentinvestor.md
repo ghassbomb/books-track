@@ -4,22 +4,15 @@ date: 2024-01-08T16:47:10+05:00
 ---
 
 ## The Intelligent Investor
+*by Benjamin Graham*
 
-### by Benjamin Graham
+{{< toc >}}
 
 ### 1 -- Introduction
 
-The search for millions is _speculation_, not investment, but there _is_ money to be made in the stock market through discipline and patience. Unfortunately, the investing spotlight is shone on get-rich-quick schemes instead. Graham gives us an example of the exaggeration common in marketing investing: in the year 1929, an influential figure named John J. Raskob claimed that investing $15/month in common stocks,[^1] and reinvesting any dividend,[^2] would produce $80,000 in 20 years. In _reality_, you would only earn $8,500\. But, compared to a total investment principal of $3,600 (excl. reinvested dividends), this is _quite_ a return--especially when you need only put aside $15/month.
+The search for millions is _speculation_, not investment, but there _is_ money to be made in the stock market through discipline and patience. Unfortunately, the investing spotlight is shone on get-rich-quick schemes instead. Graham gives us an example of the exaggeration common in marketing investing: in the year 1929, an influential figure named John J. Raskob claimed that investing \$15/month in common stocks,[^1] and reinvesting any dividend,[^2] would produce \$80,000 in 20 years. In _reality_, you would only earn \$8,500. But, compared to a total investment principal of \$3,600 (excl. reinvested dividends), this is _quite_ a return--especially when you need only put aside \$15/month.
 
 It is also a _risk-averse_ strategy--the Dow Jones Industrial Average declined from 177 to 300 in the 20-year period, but you would _still_ make large gains. This is because money was invested per-month, a strategy known as _dollar-cost averaging_.[^3] The DJIA didn't just decline from 300-177 in a straight line, it fluctuated in between, often falling below its actual endpoint of 177.
-
-You can see an example in the figure below: the blue plot shows your portfolio worth if you invested $15/month from 1929-1949 in the DJIA, coming to a total principal investment of $2420 and an end portfolio of $4889 for a ROI (return on investment) of 202%; the red plot shows your portfolio worth if you were to invest that $2420 in one go at the start of 1929--an end portfolio of $1404 or a ROI of -58%.
-
-<iframe width="788" height="371" seamless="" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQxgEQwle755UPcpuSUKdGCMSIcXA6t81Rh4VzHffpqLPLk4o5uQFdnL9del574OBZXygxi6hgO7G5t/pubchart?oid=1001009403&amp;format=interactive">
-</iframe>
-
-<iframe width="788" height="371" seamless="" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQxgEQwle755UPcpuSUKdGCMSIcXA6t81Rh4VzHffpqLPLk4o5uQFdnL9del574OBZXygxi6hgO7G5t/pubchart?oid=1228419495&amp;format=interactive">
-</iframe>
 
 ### 2 -- Investment vs. Speculation
 

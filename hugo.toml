@@ -8,3 +8,12 @@ enableRobotsTXT = true
 
 [params]
 github = 'https://github.com/ghassbomb/books-track'
+mathjax = false
+
+[markup.goldmark.renderer] 
+unsafe = true
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 3
+    endLevel = 6

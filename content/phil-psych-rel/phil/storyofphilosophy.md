@@ -1,13 +1,14 @@
 ---
-title: 'Story of Philosophy, by Will Durant'
+title: 'Story of Philosophy, by Will Durant (Dropped)'
 date: 2024-01-08T11:47:10.000Z
 ---
 
-## Story of Philosophy
 
-### by Will Durant
 
-_I have decided to not complete this on account of my new method._
+## Story of Philosophy (Dropped) 
+*by Will Durant*
+
+{{< toc >}}
 
 ### 1 -- On the Uses of Philosophy
 

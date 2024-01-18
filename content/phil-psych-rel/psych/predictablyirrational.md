@@ -3,11 +3,13 @@ title: Predictably Irrational, by Dan Ariely
 date: 2024-01-08T16:47:10+05:00
 ---
 
-# Predictably Irrational
+## Predictably Irrational
 
-## by Dan Ariely
+*by Dan Ariely*
 
-## 1 -- Introduction
+{{< toc >}}
+
+### Introduction
 
 > We are not only irrational, but predictably irrational -- that our irrationality happens the same way, again and again. Whether we are acting as consumers, business-people, or policymakers, understanding how we are predictably irrational provides a starting point for improving our decision-making and changing the way we live for the better.
 
@@ -24,7 +26,7 @@ Dan eventually recovered, but as he advanced his scholarly career, he kept this 
 
 Dan's point in bringing this up is that, if even these **extremely experienced** nurses didn't realize their methods were wrong, their behaviors were **irrational**, then perhaps we often similarly--wrongly--deal with common problems, **repeatedly**. In Dan's words, most of our mistakes are **predictably irrational**, and by understanding the behaviors that lead to them better, we can make less of these mistakes.
 
-## 2 -- Chapter 1
+### Chapter 1
 
 > As H. L. Mencken, the twentieth-century journalist, satirist, social critic, cynic, and freethinker noted, a man's satisfaction with his salary depends on whether he makes more than his wife's sister's husband. Why the wife's sister's husband? Because this is a comparison that is salient and readily available.
 
@@ -45,7 +47,7 @@ _This has immediate psychological importance_ for which Dan offers an interestin
 
 > in 1993, federal securities regulators forced companies, for the first time, to reveal details about the pay and perks of their top executives. The idea was that once pay was in the open, boards would be reluctant to give executives outrageous salaries and benefits. [...] But guess what happened. Once salaries became public information, the media regularly ran special stories ranking CEOs by pay. Rather than suppressing the executive perks, the publicity had CEOs in America comparing their pay with that of everyone else. In response, executives' salaries skyrocketed. [...] Now the average CEO makes about 369 times as much as the average worker--about three times the salary before executive compensation went public.
 
-## 3 -- Chapter 2
+### Chapter 2
 
 > Or, as Mark Twain once noted about Tom Sawyer, "Tom had discovered a great law of human action, namely, that in order to make a man covet a thing, it is only necessary to make the thing difficult to attain."
 
@@ -67,7 +69,7 @@ This leads into **herding**; when you see many people doing a certain thing, you
 
 Another question is, why Starbucks? If the coffee was cheaper, for example, at your previous choice of coffee store, why did we change to Starbucks? Why did this 'anchor' at our previous coffee shop not influence our decision this time? The answer is that, _by brooking comparisons to other coffee shops and making Starbucks as distinct from them as possible, Howard Shultz (Starbucks' founder) prevented potential customers from using other coffee shops as anchors for Starbucks_.
 
-## 4 -- Chapter 3
+### Chapter 3
 
 > Zero is not just another discount. Zero is a different place. The difference between two cents and one cent is small. But the difference between one cent and zero is huge!
 
@@ -79,7 +81,7 @@ Dan now cuts off one-cent from the prices of both. The HK is offered for **free*
 
 **Time** also figures in this issue. Free items often have an added **time cost**: you're usually not the only one pumped to get in line for a free serving of ice cream!
 
-## 5 -- Chapter 4
+### Chapter 4
 
 Dan organizes another experiment. This time: he requests three groups of students to accomplish the same task. They have to drag (digital) circles into squares, as many as they can, within a time limit of five minutes. One group gets paid $5 for participation, one group gets paid 50c, and the last group _doesn't get paid at all_.
 
@@ -101,7 +103,7 @@ However, you have to be careful in breaking social norms in favor of market ones
 
 That's not all, though. The daycare center reversed the policy, but it resulted in a further increase of tardy pickups. _After all, now there were no market or social norms in place_. What does this tell us? **It takes a long while for social norms to recover after being replaced.**
 
-## 6 -- Chapter 5
+### Chapter 5
 
 Dan continues on the topic of **market norms**. His experiment this time involves Starburst Fruit Chews. His hypothesis is this: _if he displays a limited number of fruit chews for the price of 1c, more Starbursts will be sold (per person) than if he sold the Starbursts for free._
 
@@ -124,7 +126,7 @@ Dan explores further. What about **effort**? If you were asked to work for a lim
 
 The first group took an average of 30 truffles each, the second took 1.5, and the final group took 8.6; in-between, but closer to the second group.
 
-## 7 -- Chapter 6
+### Chapter 6
 
 Dan veers into controversial territory in his next experiment. He decides to experiment on how much peoples' **attitudes** change when in '**emotionally heightened**' states, as compared to their attitudes in **normal, impassioned** situations.
 
@@ -142,7 +144,7 @@ This idea of a janus faced man--publicly respectable, privately passionate--has 
 
 What lessons can we learn from this? _For starters, never assume that your passionate brain, your animalistic side, will do anything rational. While sane, take all precautions you would need._
 
-## 8 -- Chapter 7
+### Chapter 7
 
 > Giving up on our long-term goals for immediate gratification, my friends, is procrastination.
 
@@ -167,7 +169,7 @@ _Although a simple solution to combat procrastination would be to have a third p
 
 We could save a significant amount of money and potentially even our lives by regularly attending checkups. Alatts, our lack of self-control usually leads to us foregoing these checkups. But what if we had $200 riding on attendance? And, even worse, $200 of our own money? By holding an advance payment until you attend your scheduled checkup, your doctor can cleverly force you to attend! This synthesizes the idea of a penalty ($200 of our own money), and a third-party (the doctor). Another idea is for a user to set governors on their spending & borrowing on a credit card. If they exceed these limits, the smart card of sorts sends a notification to their family informing them of their fiscal irresponsibility, or taxes them a certain amount (which goes to charity). Here, the penalty is the tax or the shame, and the third-party is the smart-card itself.
 
-## 9 -- Chapter 8
+### Chapter 8
 
 > Ownership is not limited to material things. It can also apply to points of view. Once we take ownership of an idea--whether it's about politics or sports--what do we do? We love it perhaps more than we should. We prize it more than it is worth. And most frequently, we have trouble letting go of it because we can't stand the idea of its loss. What are we left with then? An ideology--rigid and unyielding.
 
@@ -187,7 +189,7 @@ _Dan claims that all these quirks and biases are the result of 'ownership'_. As 
 
 Marketers try to exploit this fact. Trials, for example, lead to us feeling ownership over the particular item being trialled. Eventually, we lose the strength to end the trial! Similar is the '30-day money back guarantee'; sure, you can always return the item if it's not worth the money. But are we really capable of objectively evaluating and comparing the worth and utility of the items after we have 'claimed ownership' over it? Dan would say no.
 
-## 10 -- Chapter 9
+### Chapter 9
 
 > In 210 BC, a Chinese commander named Xiang Yu led his troops across the Yangtze River to attack the army of the Qin (Ch'in) dynasty. Pausing on the banks of the river for the night, his troops awakened in the morning to find, to their horror, that their ships were burning. They hurried to their feet to fight off their attackers, but soon discovered that it was Xiang Yu himself who had set their ships on fire, and that he had also ordered all the cooking pots crushed. Xiang Yu explained to his troops that without the pots and the ships, they had no other choice but to fight their way to victory or perish. That did not earn Xiang Yu a place on the Chinese army's list of favorite commanders, but it did have a tremendous focusing efefct on his troops: grabbing their lances and bows, they charged ferociously against the enemy and won nine consecutive battles, completely obliterating the main-force units of the Qin dynasty.
 
@@ -210,7 +212,7 @@ Our desire to keep doors open is harmful, but keeping doors that are worthless o
 
 But the struggle goes on. Picking between two similar options is often as tough as closing down doors. In these sort of choices, we often grind the issue down into small details that we bicker over endlessly. In so doing, we tend to ignore the consequences of not choosing at all!
 
-## 11 -- Review
+### Review
 
 Starts off decent, but as the writer uses the exact same format for each chapter it gets old quick. The format itself is:
 
