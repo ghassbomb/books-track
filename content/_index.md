@@ -12,11 +12,11 @@ The Plan (in no particular order, sorted by field):
 
 -   Philosophy and Psychology
     -   **_[Story of Philosophy]({{< relref "/phil-psych-rel/phil/storyofphilosophy" >}})_**
-    -   [The Psychology of Money]()
+    -   [The Psychology of Money]({{< relref "/social-sciences/finance/psychologyofmoney" >}})
     -   The Man Who Mistook His Wife for a Hat and Other Clinical Tales - 256 pages
 -   Investing and Finance
-    -   **[The Little Book of Common-Sense Investing]()**
-    *   **[The Intelligent Investor]()**
+    -   **[The Little Book of Common-Sense Investing]({{< relref "/social-sciences/finance/thelittlebook" >}})**
+    *   **[The Intelligent Investor]({{< relref "/social-sciences/finance/theintelligentinvestor" >}})**
     *   The Black Swan - 444 pages
     *   More Money than God - 496 pages
 -   Strategy and Game Theory
