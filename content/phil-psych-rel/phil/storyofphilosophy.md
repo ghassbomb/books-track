@@ -1,14 +1,12 @@
 ---
-title: 'Story of Philosophy, by Will Durant (Dropped)'
+title: 'Story of Philosophy, by Will Durant'
 date: 2024-01-08T11:47:10.000Z
 ---
 
 
 
-## Story of Philosophy (Dropped) 
+## Story of Philosophy 
 *by Will Durant*
-
-{{< toc >}}
 
 ### 1 -- On the Uses of Philosophy
 

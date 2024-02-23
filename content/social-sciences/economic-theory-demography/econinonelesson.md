@@ -6,7 +6,6 @@ date: 2024-01-08T16:47:10+05:00
 ## Economics in One Lesson
 
 *by Henry Hazlitt*
-{{< toc >}}
 
 ### The Lesson
 

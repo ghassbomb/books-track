@@ -7,8 +7,6 @@ date: 2024-01-08T16:47:10+05:00
 
 *by Dan Ariely*
 
-{{< toc >}}
-
 ### Introduction
 
 > We are not only irrational, but predictably irrational -- that our irrationality happens the same way, again and again. Whether we are acting as consumers, business-people, or policymakers, understanding how we are predictably irrational provides a starting point for improving our decision-making and changing the way we live for the better.

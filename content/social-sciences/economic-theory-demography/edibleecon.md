@@ -7,8 +7,6 @@ date: 2024-01-19T16:47:10+05:00
 
 _by Ha-Joon Chang_
 
-{{< toc >}}
-
 ### 1 --- Garlic
 
 There are many schools of economic thought, but neoclassical economics holds a near-monopoly over the subject. This is harmful because it also gives neoclassical ideas a chokehold over human thought. Our finances, and the economic ideas that influence them, greatly affect our ways of thinking. Chang argues that neoclassical economic ideas assume selfishness in every human and (perhaps like a self-fulfilling prophecy) perpetuate them in its implementation.

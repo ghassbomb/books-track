@@ -6,8 +6,6 @@ date: 2024-01-08T16:47:10+05:00
 ## The Intelligent Investor
 *by Benjamin Graham*
 
-{{< toc >}}
-
 ### 1 -- Introduction
 
 The search for millions is _speculation_, not investment, but there _is_ money to be made in the stock market through discipline and patience. Unfortunately, the investing spotlight is shone on get-rich-quick schemes instead. Graham gives us an example of the exaggeration common in marketing investing: in the year 1929, an influential figure named John J. Raskob claimed that investing \$15/month in common stocks,[^1] and reinvesting any dividend,[^2] would produce \$80,000 in 20 years. In _reality_, you would only earn \$8,500. But, compared to a total investment principal of \$3,600 (excl. reinvested dividends), this is _quite_ a return--especially when you need only put aside \$15/month.
